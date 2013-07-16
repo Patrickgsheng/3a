@@ -56,10 +56,20 @@ The shortest-path problem is P, the traveling-salesman is NP
 come up with one in which a solution that is “approximately” the best is good
 enough.*
 
+~~~~~~~~~~~~~~~
+Best solutions
+~~~~~~~~~~~~~~~
 
 Financial algorithms
+
 Game in which you have to submit the nth prime number in one second, or you're killed by a kill(n)ect controller
+
 DAA Exam with Minko
 
+~~~~~~~~~~~~~
+Approximate
+~~~~~~~~~~~~~
+
 Games and bots
+
 Processing large volumes of data
