@@ -27,10 +27,12 @@ Brain.
 Linked list.
 
 pros
+
 * easy to add and remove elements in constant time
 * good when you just need to iterate through all elements
 
 cons
+
 * no random access
 * you need memory not only for the data, but for the pointers to the next elements(metadata?)
 
